@@ -1,0 +1,26 @@
+{
+  "name": "transact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.17.0",
+    "npm": "7.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "mysql": "^2.18.1",
+    "pg": "^8.7.3",
+    "tedious": "^14.4.0"
+  }
+}
