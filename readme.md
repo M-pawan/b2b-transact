@@ -1,8 +1,8 @@
-# B2BTranzact (using both SQL and NOSQL)
+# B2BTranzact
 
 ## Technologies
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://burgurly.azurewebsites.net/)](https://burgurly.azurewebsites.net/) [![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white&link=https://burgurly.azurewebsites.net/)](https://burgurly.azurewebsites.net/)![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white&link=https://burgurly.azurewebsites.net/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://burgurly.azurewebsites.net/)](https://burgurly.azurewebsites.net/) [![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white&link=https://burgurly.azurewebsites.net/)](https://burgurly.azurewebsites.net/) ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white&link=https://burgurly.azurewebsites.net/)
 
 ## Table of contents
 
